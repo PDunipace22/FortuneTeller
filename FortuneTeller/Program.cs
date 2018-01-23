@@ -10,8 +10,6 @@ namespace FortuneTeller
     {
         static void Main(string[] args)
         {
-            //declared variables within the lines of code
-
             Console.WriteLine("What is your fist name?");
             string first = Console.ReadLine();
             Console.WriteLine("What is your last name?");
