@@ -73,7 +73,7 @@ namespace FortuneTeller
                     transportation = "Ford Mustang";
                     break;
                 case ("o"):
-                    transportation = "Camper";
+                    transportation = "ostrich";
                     break;
                 case ("y"):
                     transportation = "Unicycle";
